@@ -1,0 +1,5 @@
+{
+  "name": "Sentient | Customer Sentiment Dashboard",
+  "description": "A powerful AI-driven dashboard that analyzes large batches of customer reviews to extract sentiment trends, actionable insights, and key themes using Gemini's advanced reasoning capabilities.",
+  "requestFramePermissions": []
+}
